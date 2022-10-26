@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class HavingSuperAbility {
+public interface HavingSuperAbility {
+    void applySuperPower(Boss boss, Hero[] heroes);
 }
